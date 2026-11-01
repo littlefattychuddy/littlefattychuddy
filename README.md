@@ -14,7 +14,7 @@ Art cred: @melodyluckycat on Tik!!
 <br>
 <br>
 <br>
-<img src="https://cdn.phototourl.com/member/2026-11-01-33b6719a-a8bb-433f-b583-03b1bceba51a.jpg" width="244" height="185" alt="my friends">  @W, @K lmao
+<img src="https://cdn.phototourl.com/member/2026-11-01-33b6719a-a8bb-433f-b583-03b1bceba51a.jpg" width="244" height="185" alt="my friends"> &nbsp; &nbsp; &nbsp;@W, @K lmao
 <br>
 <br>
 <div align="center">゜✭・.・✫・゜・。. ✧･ﾟ✭・.・✫・゜・。. ✧･ﾟ✭・.・✫・゜・。. ✧･ﾟ✭・.・✫・゜・。. ✧･ﾟ
