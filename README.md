@@ -1,5 +1,14 @@
 <div align="center"><a href="https://muipun.atabook.org/" target="_blank">
-  <img src="https://img.shields.io/badge/ATA_BOOK-B57EDC?style=flat" alt="sign_plz">
+  <img src="https://img.shields.io/badge/ATA_BOOK-B57EDC?style=flat-square" alt="sign_plz">
+</a>
+<br>
+<br>
+ <div align="center">⋆˚࿔&nbsp;My chuddies&nbsp;𝜗𝜚˚⋆
+   <br>
+   <div align="center"><a href="https://github.com/yourpersonalpup" target="_blank">
+  <img src="https://img.shields.io/badge/Sx4-353839?style=flat-square" alt="sign_plz">
+</a> <a href="https://github.com/kai0ozkevf" target="_blank">
+  <img src="https://img.shields.io/badge/Sx4-2B2B2B?style=flat-square" alt="sign_plz">
 </a>
  <br>
  <br>
