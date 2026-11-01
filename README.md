@@ -1,5 +1,7 @@
- <div align="center"><img src="https://img.shields.io/badge/ATA_BOOK-B57EDC?style=flat" alt="https://muipun.atabook.org/">
- </div>
+<div align="center"><a href="https://muipun.atabook.org/" target="_blank">
+  <img src="https://img.shields.io/badge/ATA_BOOK-B57EDC?style=flat" alt="sign_plz">
+</a>
+ <br>
  <br>
  <div align="center">゜✭・.・✫・゜・。. ✧･ﾟ✭・.・✫・゜・。. ✧･ﾟ✭・.・✫・゜・。. ✧･ﾟ✭・.・✫・゜・。. ✧･ﾟ
 <br>
