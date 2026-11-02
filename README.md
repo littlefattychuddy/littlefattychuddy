@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=314b3h26xghjf6ajdplr3qipo2yq&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314b3h26xghjf6ajdplr3qipo2yq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=6251b8&bar_color_cover=false">
+  </a>
+</p>
+
+
+
+
 <div align="center"><a href="https://muipun.atabook.org/" target="_blank">
   <img src="https://img.shields.io/badge/ATA_BOOK-B57EDC?style=flat-square" alt="sign_plz">
 </a>
